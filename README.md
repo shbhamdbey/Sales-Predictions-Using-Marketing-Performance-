@@ -1,4 +1,4 @@
-# Sales-Predictions-Using-Marketing-Performance-
+# Sales-Predictions-Using-Marketing-Performance
 
 This project help company stakeholder with sales analysis report that shows the trends that occur in a company's sales with different marketing means.
 In its most basic form, this analysis report shows whether sales are increasing or declining with various tool for marketing.
